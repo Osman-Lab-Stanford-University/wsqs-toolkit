@@ -1,0 +1,17 @@
+{
+  "version": "0.9.0",
+  "publication_authorized": true,
+  "status": "PUBLIC_SOURCE_APPROVED_BY_RIGHTS_HOLDER",
+  "rights_review_pending": false,
+  "native_excel_recalculation_verified": false,
+  "survey_automatically_model_ready": false,
+  "license_and_survey_rights_approved": true,
+  "raw_survey_automatically_harmonized": false,
+  "original_study_archive_modified": false,
+  "pdf_times_new_roman_font_resources_verified": true,
+  "extension_execution_provenance_snapshot_verified": true,
+  "rights_holder_self_attestation_recorded_privately": true,
+  "native_excel_basic_calculation_user_verified": true,
+  "native_excel_full_manual_acceptance_user_attested": true,
+  "frozen_technical_baseline": "0.9.0-rc4"
+}

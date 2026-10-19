@@ -1,0 +1,34 @@
+feature,block,source_question,type,native_levels,local_mapping,units,applicability,validation_evidence,reviewer,status
+service_Q2_3,Service-support,Q2.3,numeric,1–5,,,,,,REQUIRES_LOCAL_REVIEW
+service_Q2_5,Service-support,Q2.5,numeric,1–5,,,,,,REQUIRES_LOCAL_REVIEW
+service_Q2_8,Service-support,Q2.8,categorical,Original response categories,,,,,,REQUIRES_LOCAL_REVIEW
+service_Q3_2,Service-support,Q3.2,numeric,1–5,,,,,,REQUIRES_LOCAL_REVIEW
+service_Q3_3,Service-support,Q3.3,numeric,1–5,,,,,,REQUIRES_LOCAL_REVIEW
+service_Q3_5,Service-support,Q3.5,categorical,1–3,,,,,,REQUIRES_LOCAL_REVIEW
+service_Q3_6,Service-support,Q3.6,categorical,1–5,,,,,,REQUIRES_LOCAL_REVIEW
+service_Q4_2,Service-support,Q4.2,categorical,1–5,,,,,,REQUIRES_LOCAL_REVIEW
+service_Q4_3,Service-support,Q4.3,categorical,1–5,,,,,,REQUIRES_LOCAL_REVIEW
+service_Q4_4,Service-support,Q4.4,numeric,1–3,,,,,,REQUIRES_LOCAL_REVIEW
+service_Q5_2,Service-support,Q5.2,numeric,1–3,,,,,,REQUIRES_LOCAL_REVIEW
+service_Q5_3,Service-support,Q5.3,numeric,1–3,,,,,,REQUIRES_LOCAL_REVIEW
+service_Q6_2,Service-support,Q6.2,numeric,1–5,,,,,,REQUIRES_LOCAL_REVIEW
+service_Q6_3,Service-support,Q6.3,numeric,1–5,,,,,,REQUIRES_LOCAL_REVIEW
+service_Q6_4,Service-support,Q6.4,numeric,1–5,,,,,,REQUIRES_LOCAL_REVIEW
+service_Q7_3,Service-support,Q7.3,numeric,1–5,,,,,,REQUIRES_LOCAL_REVIEW
+service_Q7_4,Service-support,Q7.4,numeric,1–3,,,,,,REQUIRES_LOCAL_REVIEW
+service_Q8_2,Service-support,Q8.2,categorical,1–5,,,,,,REQUIRES_LOCAL_REVIEW
+service_Q8_3,Service-support,Q8.3,numeric,1–5,,,,,,REQUIRES_LOCAL_REVIEW
+service_Q8_4,Service-support,Q8.4,numeric,1–3,,,,,,REQUIRES_LOCAL_REVIEW
+service_Q9_2,Service-support,Q9.2,numeric,1–5,,,,,,REQUIRES_LOCAL_REVIEW
+service_Q9_4,Service-support,Q9.4,numeric,1–2,,,,,,REQUIRES_LOCAL_REVIEW
+context_primary_provision,Household context,Q1.1,categorical,Survey categories,,,,,,REQUIRES_LOCAL_REVIEW
+context_household_size,Household context,Q15.10,categorical,Survey categories,,,,,,REQUIRES_LOCAL_REVIEW
+context_dwelling,Household context,Q15.14,categorical,Survey categories,,,,,,REQUIRES_LOCAL_REVIEW
+Affordability_priority_0_10,Stated priorities,,numeric,0–10,,,,,,REQUIRES_LOCAL_REVIEW
+Access_priority_0_10,Stated priorities,,numeric,0–10,,,,,,REQUIRES_LOCAL_REVIEW
+Reliability_priority_0_10,Stated priorities,,numeric,0–10,,,,,,REQUIRES_LOCAL_REVIEW
+Efficiency_priority_0_10,Stated priorities,,numeric,0–10,,,,,,REQUIRES_LOCAL_REVIEW
+Acceptability_priority_0_10,Stated priorities,,numeric,0–10,,,,,,REQUIRES_LOCAL_REVIEW
+Quality_priority_0_10,Stated priorities,,numeric,0–10,,,,,,REQUIRES_LOCAL_REVIEW
+Quantity_priority_0_10,Stated priorities,,numeric,0–10,,,,,,REQUIRES_LOCAL_REVIEW
+Customer_service_priority_0_10,Stated priorities,,numeric,0–10,,,,,,REQUIRES_LOCAL_REVIEW

@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: >-
+  If you use the Water Service Quality Score (WSQS) toolkit or its
+  measurement methods, please cite the accompanying Research Square
+  preprint and identify the software version used.
+type: software
+title: "Water Service Quality Score (WSQS): measurement, forecasting and international survey toolkit"
+version: 0.9.0
+authors:
+  - family-names: Mohanavelu
+    given-names: Aadhityaa
+  - family-names: Osman
+    given-names: Khalid K.
+keywords:
+  - water service quality
+  - household survey
+  - infrastructure
+  - reproducibility
+  - forecasting
+preferred-citation:
+  type: article
+  title: "Operational Service Conditions are the primary predictors of Household Water Service Quality Across Heterogeneous Provision Systems"
+  authors:
+    - family-names: Mohanavelu
+      given-names: Aadhityaa
+    - family-names: Osman
+      given-names: Khalid K.
+  year: 2026
+  doi: "10.21203/rs.3.rs-10888037/v1"
+  url: "https://doi.org/10.21203/rs.3.rs-10888037/v1"

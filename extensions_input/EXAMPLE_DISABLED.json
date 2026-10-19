@@ -1,0 +1,18 @@
+{
+  "enabled": false,
+  "id": "EXT_STORAGE_01",
+  "domain": "Reliability",
+  "question": "Does your household have access to emergency water storage during supply interruptions?",
+  "kind": "single_select",
+  "options": [
+    "Always",
+    "Sometimes",
+    "Never"
+  ],
+  "scoring_policy": "supplementary_only",
+  "source": "Illustrative research extension",
+  "provenance": "Synthetic demonstration",
+  "contributor": "To be specified",
+  "applicability": "All supply arrangements",
+  "consent_review_required": true
+}
