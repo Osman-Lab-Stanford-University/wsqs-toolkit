@@ -1,0 +1,38 @@
+# Never commit real respondent or sensitive research files.
+# .gitignore is a guardrail, not a data-leak prevention guarantee.
+.DS_Store
+._*
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Local respondent-level files and intermediate model outputs
+PRIVATE_*
+**/PRIVATE_*
+*respondent*data*.csv
+*household*data*.csv
+private/
+private_data/
+respondent_data/
+raw_data/
+data/raw/
+outputs/
+output/
+runs/
+logs/
+*.log
+~$*
+*.tmp
+*.bak
+
+# Stage and audit material is never part of the GitHub repository.
+PUBLICATION_REVIEW_PRIVATE/
+PRIVATE_ACCEPTANCE_DO_NOT_PUBLISH/
+STAGE0*/
+WSQS_TECHNICAL_LOCK_*/
