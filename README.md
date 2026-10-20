@@ -1,5 +1,7 @@
 # Water Service Quality Score (WSQS) | International Research Toolkit
 
+Developed by **Aadhityaa Mohanavelu** as part of research conducted in the **Osman Lab at Stanford University**, under the supervision of **Prof. Khalid K. Osman**.
+
 **Version 0.9.0.** This package combines original CORE-8 scoring, the 43-item adapted research survey (plus three optional sensitivity questions), Excel data entry and new-data Python analysis. Its international wording is **not independently validated**. Obtain local consent, ethics approval and relevant redistribution rights before field administration.
 
 ## Where to begin
