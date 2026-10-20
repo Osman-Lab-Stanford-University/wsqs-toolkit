@@ -66,4 +66,4 @@ See `LICENSING.md` for a file-by-file scope explanation and exclusions.
 Third-party material retains its own license; restricted household data and
 the separately frozen original-study archive are not licensed here.
 
-**Research credit: **The WSQS International Research Toolkit was developed in the **Osman Lab at Stanford University**. The accompanying research was coauthored by Aadhityaa Mohanavelu and Khalid K. Osman. Cite the joint Research Square preprint https://doi.org/10.21203/rs.3.rs-10888037/v1 and report the toolkit version used. GitHub's root-level CITATION.cff provides the preferred citation.
+**Research credit:** The WSQS International Research Toolkit was developed in the **Osman Lab at Stanford University**. The accompanying research was coauthored by Aadhityaa Mohanavelu and Khalid K. Osman. Cite the joint Research Square preprint https://doi.org/10.21203/rs.3.rs-10888037/v1 and report the toolkit version used. GitHub's root-level CITATION.cff provides the preferred citation.
