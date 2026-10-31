@@ -1,7 +1,7 @@
 # SCOPE AND LIMITATIONS
 
 
-Stage 5 passed 22 inherited unit tests and the synthetic survey and modeling workflows.
+Stage 5 passed 22 inherited unit tests and the synthetic survey and modeling workflows. A subsequent verification passed the expanded 25-test unit-test suite.
 
 The synthetic acceptance tests included four negative-input checks and 246 aggregate results.
 

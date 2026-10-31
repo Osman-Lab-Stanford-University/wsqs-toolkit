@@ -52,7 +52,7 @@ The original study's reproducibility materials are maintained separately from th
 
 ## Technical-lock provenance and PDF export
 
-This candidate's survey PDFs are exported from DOCX masters with font-only Word style/theme corrections (all questionnaire content unchanged), using Microsoft Word for Mac with verified Times New Roman PDF fonts. Private `executed_sources` now captures `src/wsqs/extensions.py`, `src/wsqs/provenance.py` and byte-identical enabled `--extensions` JSON specifications, with SHA-256 hashes in each independent-study run report. Registry snapshots contain specifications, never respondent answers. The original study's reproducibility materials are maintained separately. This toolkit derives from the 0.9.0-rc4 technical baseline. The original scoring, predictor specifications and questionnaires are unchanged.
+The survey PDFs are exported from DOCX masters with font-only Word style/theme corrections (all questionnaire content unchanged), using Microsoft Word for Mac with verified Times New Roman PDF fonts. Private `executed_sources` now captures `src/wsqs/extensions.py`, `src/wsqs/provenance.py` and byte-identical enabled `--extensions` JSON specifications, with SHA-256 hashes in each independent-study run report. Registry snapshots contain specifications, never respondent answers. The original study's reproducibility materials are maintained separately. This toolkit derives from the 0.9.0-rc4 technical baseline. The original scoring, predictor specifications and questionnaires are unchanged.
 
 ## Citation
 
