@@ -4,6 +4,14 @@ Developed by **Aadhityaa Mohanavelu** as part of research conducted in the **Osm
 
 **Version 0.9.0.** This package combines original CORE-8 scoring, the 43-item adapted research survey (plus three optional sensitivity questions), Excel data entry and new-data Python analysis. Its international wording is **not independently validated**. Obtain local consent, ethics approval and relevant redistribution rights before field administration.
 
+### Original survey and international toolkit
+
+The Water Service Quality Score (WSQS) was developed using household-reported water-service data collected in India, primarily Tamil Nadu, in 2025. The original bilingual survey instrument contains 106 numbered questions across 15 thematic sections.
+
+The original English and Tamil questionnaires, question dictionary and supporting documentation are available in the [Household Water Service Survey (2025) repository](https://github.com/Osman-Lab-Stanford-University/water-service-survey-2025), release v1.0.0.
+
+This toolkit provides a separate international research adaptation comprising 43 research questions and three optional sensitivity questions, together with CORE-8 scoring tools, Excel calculators and Python analysis workflows. The adapted questionnaire is not identical to the original instrument and has not been independently validated across populations or languages. Researchers should assess its suitability and measurement properties in their intended study settings.
+
 ## Where to begin
 
 Open `survey/WSQS_International_Calculator.xlsx` in Microsoft Excel. `MY WSQS` scores one household, `BATCH CORE8` scores up to 100 and `RESEARCH ENTRY` collects 43 research questions with three optional sensitivity questions for up to 100 rows. `CORE8 QUESTIONS` gives full question wording and response choices. CORE-8 averages valid applicable domains on a 0–100 scale. More than zero but fewer than seven applicable answered domains produce a score **flagged LOW COVERAGE**; zero applicable answers yield no score. Structural Customer Service nonapplicability is distinct from poor service.
