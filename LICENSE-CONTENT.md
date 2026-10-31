@@ -26,5 +26,5 @@ identified as covered and sublicensing is authorized.
 For mixed-media assets such as the Excel calculator, the original executable
 scoring formulae are licensed under MIT while the original questionnaire and
 explanatory content follow CC BY 4.0. This notice does not cover restricted
-household records, private run evidence or the separate frozen original-study
+household records, private run evidence or the separately maintained original-study
 reproducibility archive. See `LICENSING.md`.

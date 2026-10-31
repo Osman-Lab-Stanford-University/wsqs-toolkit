@@ -15,7 +15,7 @@ Square preprint https://doi.org/10.21203/rs.3.rs-10888037/v1.
 | `survey/WSQS_International_Calculator.xlsx` | Mixed MIT + CC BY 4.0 | Executable original scoring formulas under MIT, original survey/content under CC BY |
 | `environment/` and dependencies | Upstream licenses where relevant | Dependency listings do not relicense third-party software |
 | `CITATION.cff` | Citation metadata | Citation requests are distinct from copyright permissions |
-| Frozen original-study reproducibility ZIP | **Excluded** | Separate archive and separate rights assessment before distribution |
+| Original-study reproducibility archive | **Excluded** | Separate archive and separate rights assessment before distribution |
 | Private household data, synthetic QA bundles and installation logs | **Not included in public package** | Do not add private records or private QA folders to GitHub |
 
 No source-code license is intended to alter the core scoring specification,

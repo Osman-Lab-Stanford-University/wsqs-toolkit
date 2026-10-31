@@ -26,7 +26,6 @@ documentation content: CC BY 4.0. Preferred associated research citation:
 Mohanavelu and Osman (2026), Research Square,
 https://doi.org/10.21203/rs.3.rs-10888037/v1.
 
-## Excel acceptance
+## Excel verification scope
 
-The user has verified that the blank workbook opens in Microsoft Excel and
-that the individual calculator functions. The first/last research-entry rows and results viewer were also user-attested.
+Workbook opening and basic CORE-8 calculation were manually checked in Microsoft Excel. Comprehensive native Excel recalculation and end-to-end workbook behavior were not independently verified for this release. Researchers should validate the workbook in their intended environment before use.

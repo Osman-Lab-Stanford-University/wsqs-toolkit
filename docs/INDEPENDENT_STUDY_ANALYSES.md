@@ -1,6 +1,6 @@
 # Independent-study WSQS analyses
 
-The original-study reproduction package is separate and remains frozen.
+The original-study reproducibility materials are maintained separately and are not included in this toolkit. The workflows below analyze new, independently collected and locally harmonized study data; they do not reproduce the original study's empirical results.
 
 ## First, check your international survey
 

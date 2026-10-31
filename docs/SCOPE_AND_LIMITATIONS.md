@@ -13,6 +13,6 @@ Synthetic tests establish software functionality, not external predictive validi
 
 The international survey adaptation has not been independently validated.
 
-The original-study reproducibility package is separately frozen and has defined scientific scope limitations.
+The original-study reproducibility materials are maintained separately and have their own scientific scope limitations.
 
 Do not claim complete manuscript reproduction without additional supporting evidence.

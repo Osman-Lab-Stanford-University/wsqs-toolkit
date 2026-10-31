@@ -10,6 +10,6 @@ Mohanavelu and Khalid K. Osman, with the Research Square DOI supplied in
 
 Public release is based on an explicit rights-holder authorization recorded
 privately outside this repository. This notice does not grant rights in any
-third-party content, private household records or the separately frozen
+third-party content, private household records or the separately maintained
 original-study reproducibility package. Institutional or third-party terms,
 where applicable, continue to apply.

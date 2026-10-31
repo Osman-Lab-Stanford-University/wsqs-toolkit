@@ -6,9 +6,7 @@ conditionally usable model-fitting workflows requiring site-specific predictor
 harmonization. The adapted questionnaire has not been independently validated
 across international settings and must receive local consent and ethics review.
 
-Automated unit tests passed 25/25 and the Mac-based native Excel individual
-calculator was manually checked. A full first/last research-entry-row and
-246-result viewer native Excel check is user-attested.
+Automated unit tests passed 25/25. Workbook opening and basic individual CORE-8 calculation were manually checked in Microsoft Excel. Comprehensive native Excel recalculation and end-to-end workbook behavior were not independently verified; researchers should validate the workbook before study use.
 
 The original-study reproducibility package and all household-level records are
 excluded. Review `DATA_PRIVACY.md` and `LICENSING.md` before using or redistributing
